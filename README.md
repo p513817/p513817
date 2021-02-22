@@ -26,7 +26,7 @@
 ---
 
 
-### Blogs posts
+### Currented Blogs Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [使用Jetson Nano運用Tensor 加速 — 下篇](https://medium.com/@chiachun0818/%E4%BD%BF%E7%94%A8jetson-nano%E9%81%8B%E7%94%A8tensor-%E5%8A%A0%E9%80%9F-%E4%B8%8B%E7%AF%87-909a0d06129?source=rss-4b815605d122------2)
