@@ -9,19 +9,17 @@
 ---
 
 
-- 🔭 I’m currently working on [Robot Kingdom (Cavedu Education Team)](https://robotkingdom.com.tw/)
+- 🔭 I’m currently working on [**Robot Kingdom (Cavedu Education Team)**](https://robotkingdom.com.tw/)
 
 - 🌱 I’m currently learning **Deep Learning, Machine Learning, Computer Vision**
 
-- 🤝 I’m looking for help with **More challenging work**
+- 👨‍💻 All of my projects are available at [**Github**](https://github.com/p513817)
 
-- 👨‍💻 All of my projects are available at [https://github.com/p513817](https://github.com/p513817)
-
-- 📝 I regularly write articles on [https://chiachun0818.medium.com/](https://chiachun0818.medium.com/)
+- 📝 I regularly write articles on [**Medium**](https://chiachun0818.medium.com/)
 
 - 📫 How to reach me **p513817@gmail.com**
 
-- 📄 Know about my experiences [Resume](./MyProfile.md)
+- 📄 Know about my experiences [**Resume**](./MyProfile.md)
 
 ---
 
