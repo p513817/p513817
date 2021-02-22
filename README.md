@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **p513817@gmail.com**
 
-- 📄 Know about my experiences [Resume](./MyProfile)
+- 📄 Know about my experiences [Resume](./MyProfile.md)
 
 ---
 
