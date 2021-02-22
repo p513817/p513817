@@ -29,10 +29,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-
-
-
-
+- [使用Jetson Nano運用Tensor 加速 — 下篇](https://medium.com/@chiachun0818/%E4%BD%BF%E7%94%A8jetson-nano%E9%81%8B%E7%94%A8tensor-%E5%8A%A0%E9%80%9F-%E4%B8%8B%E7%AF%87-909a0d06129?source=rss-4b815605d122------2)
+- [使用Jetson Nano運用TensorRT加速引擎 — 上篇](https://medium.com/@chiachun0818/%E4%BD%BF%E7%94%A8jetson-nano%E9%81%8B%E7%94%A8tensorrt%E5%8A%A0%E9%80%9F%E5%BC%95%E6%93%8E-%E4%B8%8A%E7%AF%87-c14971e9576c?source=rss-4b815605d122------2)
+- [快速理解Pre-Trained Model、Transfer Learning之間差異，並且實作PyTorch提供的Pre-Trained Model](https://medium.com/@chiachun0818/%E5%BF%AB%E9%80%9F%E7%90%86%E8%A7%A3pre-trained-model-transfer-learning%E4%B9%8B%E9%96%93%E5%B7%AE%E7%95%B0-%E4%B8%A6%E4%B8%94%E5%AF%A6%E4%BD%9Cpytorch%E6%8F%90%E4%BE%9B%E7%9A%84pre-trained-model-4a246a38463b?source=rss-4b815605d122------2)
+- [技術文章總攬 ( 2020 )](https://medium.com/@chiachun0818/%E6%8A%80%E8%A1%93%E6%96%87%E7%AB%A0%E7%B8%BD%E6%94%AC-2020-b8af678737b3?source=rss-4b815605d122------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
