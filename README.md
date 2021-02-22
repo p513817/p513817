@@ -40,7 +40,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chia-chun chang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chia-chun chang" height="30" width="40" /></a>
-<a href="https://fb.com/張嘉鈞" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="張嘉鈞" height="30" width="40" /></a>
+<a href="https://fb.com/chiachun0818" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="張嘉鈞" height="30" width="40" /></a>
 <a href="https://instagram.com/chiachun_0818" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="chiachun_0818" height="30" width="40" /></a>
 <a href="https://medium.com/@chiachun0818" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@chiachun0818" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/p513817" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="p513817" height="30" width="40" /></a>
