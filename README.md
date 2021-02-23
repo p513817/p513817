@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chia-Chun, Chang</h1>
 
-|    |    | 
-|---:|:---|
-|Rookie in deep learning and computer vision, and I am trying to become a man of value| <img src="https://komarev.com/ghpvc/?username=p513817&label=Profile%20views&color=0e75b6&style=flat" alt="p513817" /> |
+<h3 align="center">Rookie in deep learning and computer vision, and I am trying to become a man of value</h3>
 
-<!--<h3 align="center">Rookie in deep learning and computer vision, and I am trying to become a man of value</h3>-->
-
-<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=p513817&label=Profile%20views&color=0e75b6&style=flat" alt="p513817" /> </p>-->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=p513817&label=Profile%20views&color=0e75b6&style=flat" alt="p513817" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p513817" alt="p513817" /></a> </p> -->
 
