@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chia-Chun, Chang</h1>
 
-<h3 align="center">Rookie in deep learning and computer vision, and I am trying to become a man of value</h3>
+<h3 align="center">Rookie in deep learning and computer vision</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=p513817&label=Profile%20views&color=0e75b6&style=flat" alt="p513817" /> </p>
 
