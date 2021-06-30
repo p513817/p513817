@@ -28,10 +28,10 @@
 ### Currented Blogs Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jetson Nano 運行手部辨識範例TRT_POSE_HAND 與其它應用](https://chiachun0818.medium.com/jetson-nano-%E9%81%8B%E8%A1%8C%E6%89%8B%E9%83%A8%E8%BE%A8%E8%AD%98%E7%AF%84%E4%BE%8Btrt-pose-hand-%E8%88%87%E5%85%B6%E5%AE%83%E6%87%89%E7%94%A8-db71d3c73680?source=rss-4b815605d122------2)
 - [使用Jetson Nano 進行姿態辨識與手部辨識](https://chiachun0818.medium.com/%E4%BD%BF%E7%94%A8jetson-nano-%E9%80%B2%E8%A1%8C%E5%A7%BF%E6%85%8B%E8%BE%A8%E8%AD%98%E8%88%87%E6%89%8B%E9%83%A8%E8%BE%A8%E8%AD%98-851d172cb273?source=rss-4b815605d122------2)
 - [Jetson Nano 之 Darknet詳解以及最簡單的yolov4即時影像辨識](https://chiachun0818.medium.com/jetson-nano-%E4%B9%8B-darknet%E8%A9%B3%E8%A7%A3%E4%BB%A5%E5%8F%8A%E6%9C%80%E7%B0%A1%E5%96%AE%E7%9A%84yolov4%E5%8D%B3%E6%99%82%E5%BD%B1%E5%83%8F%E8%BE%A8%E8%AD%98-248e369b93c3?source=rss-4b815605d122------2)
 - [Jetson Nano使用YOLOv4並透過Tensor RT 進行加速](https://chiachun0818.medium.com/jetson-nano%E4%BD%BF%E7%94%A8yolov4%E4%B8%A6%E9%80%8F%E9%81%8Etensor-rt-%E9%80%B2%E8%A1%8C%E5%8A%A0%E9%80%9F-174f5ad46bb0?source=rss-4b815605d122------2)
-- [使用Jetson Nano運用Tensor 加速 — 下篇](https://chiachun0818.medium.com/%E4%BD%BF%E7%94%A8jetson-nano%E9%81%8B%E7%94%A8tensor-%E5%8A%A0%E9%80%9F-%E4%B8%8B%E7%AF%87-909a0d06129?source=rss-4b815605d122------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
