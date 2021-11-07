@@ -28,10 +28,10 @@
 ### Currented Blogs Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu 安裝 CUDA + CuDNN 最簡單、穩定的方式](https://medium.com/chiachun0818/ubuntu-%E5%AE%89%E8%A3%9D-cuda-cudnn-%E6%9C%80%E7%B0%A1%E5%96%AE-%E7%A9%A9%E5%AE%9A%E7%9A%84%E6%96%B9%E5%BC%8F-91be6588568f?source=rss-4b815605d122------2)
 - [Jetson Nano 重新編譯 OpenCV + CUDA](https://chiachun0818.medium.com/jetson-nano-%E9%87%8D%E6%96%B0%E7%B7%A8%E8%AD%AF-opencv-cuda-a65daf5988ab?source=rss-4b815605d122------2)
 - [Jetson Nano 運行手部辨識範例TRT_POSE_HAND 與其它應用](https://chiachun0818.medium.com/jetson-nano-%E9%81%8B%E8%A1%8C%E6%89%8B%E9%83%A8%E8%BE%A8%E8%AD%98%E7%AF%84%E4%BE%8Btrt-pose-hand-%E8%88%87%E5%85%B6%E5%AE%83%E6%87%89%E7%94%A8-db71d3c73680?source=rss-4b815605d122------2)
 - [使用Jetson Nano 進行姿態辨識與手部辨識](https://chiachun0818.medium.com/%E4%BD%BF%E7%94%A8jetson-nano-%E9%80%B2%E8%A1%8C%E5%A7%BF%E6%85%8B%E8%BE%A8%E8%AD%98%E8%88%87%E6%89%8B%E9%83%A8%E8%BE%A8%E8%AD%98-851d172cb273?source=rss-4b815605d122------2)
-- [Jetson Nano 之 Darknet詳解以及最簡單的yolov4即時影像辨識](https://chiachun0818.medium.com/jetson-nano-%E4%B9%8B-darknet%E8%A9%B3%E8%A7%A3%E4%BB%A5%E5%8F%8A%E6%9C%80%E7%B0%A1%E5%96%AE%E7%9A%84yolov4%E5%8D%B3%E6%99%82%E5%BD%B1%E5%83%8F%E8%BE%A8%E8%AD%98-248e369b93c3?source=rss-4b815605d122------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
