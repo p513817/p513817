@@ -9,9 +9,6 @@
 
 ---
 
-
-- 🔭 I’m currently working on [**Robot Kingdom (Cavedu Education Team)**](https://robotkingdom.com.tw/)
-
 - 🌱 I’m currently learning **Deep Learning, Machine Learning, Computer Vision**
 
 - 👨‍💻 All of my projects are available at [**Github**](https://github.com/p513817)
